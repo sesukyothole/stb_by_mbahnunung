@@ -17,19 +17,19 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Uj0horo.png?v=1.0.0." group-title="tvN150N" tvg-id="ANTV.my.id" tvg-name="ANTV ᴴᴰ", ANTV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Uj0horo.png?v=1.0.0." group-title="tvN150N" tvg-id="ANTV.id" tvg-name="ANTV", ANTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g4Hv2nh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar.my.id" tvg-name="Indosiar HD", Indosiar HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g4Hv2nh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
 http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fd77alx.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.my.id" tvg-name="Metro TV ᴴᴰ", Metro TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fd77alx.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MetroTV.id" tvg-name="Metro TV ID", MetroTV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D3YZmGz.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.my.id" tvg-name="Trans 7", Trans7 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D3YZmGz.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans7.my.id" tvg-name="Trans 7", Trans7
 https://cdn11jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd|Referer=https://www.indihometv.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
